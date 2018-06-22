@@ -1,2 +1,2 @@
 # conf
-service
+Package basead in go conf of Stephen Weinberg
